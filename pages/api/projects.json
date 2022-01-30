@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "TECH TUTORS",
+    "image": "https://imgur.com/kbGs6zH.png",
+    "description": "A platform for  developers to showcase their LEARN PROGRAMMING AND ALL YOUTUBE VIDEOS AT ONE STOP",
+    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
+    "source_code": "https://github.com/aasim-syed",
+    "demo": "https://syedaasim033.github.io/techies/?ref=producthunt"
+  },
+  {
+    "id": 2,
+    "name": "RICK ROLL",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "RICK ROLLING PRANKWEBSITEE",
+    "tags": ["react", "node", "mongodb", "", "", "material-ui"],
+    "demo": "https://aasim-syed.github.io/rickroll/"
+  },
+  {
+    "id": 3,
+    "name": "GOOGLE CLUB WEBSITE",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "A website for google students developer club",
+    "tags": ["react", "node", "mongodb", "redux", "", "material-ui"],
+    "source_code": "https://github.com/aasim-syed",
+    "demo": "https://gsc-msec.herokuapp.com/"
+  },
+  {
+    "id": 4,
+    "name": "VSCode Portfolio",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["next", "css-modules"],
+    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
+    "demo": "http://vscode-portfolio.vercel.app/"
+  }
+]
