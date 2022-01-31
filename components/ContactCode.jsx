@@ -18,7 +18,7 @@ const contactItems = [
   },
   {
     social: 'linkedin',
-    link: 'nitinranganath',
+    link: 'Syed-Aasim',
     href: 'https://www.linkedin.com/in/syed-aasim/',
   },
   {
